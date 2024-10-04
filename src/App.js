@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import BaiTap1 from "./BaiTap1";
+import ExShoeRedux from "./ExShoeRedux/ExShoeRedux";
 
 function App() {
   return (
     <div>
-      <BaiTap1 />
+      <ExShoeRedux />
     </div>
   );
 }
